@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sneha Pandit</h1>
 <h3 align="center">Passionate about machine learning and Data science.</h3>
